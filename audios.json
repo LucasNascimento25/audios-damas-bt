@@ -1,0 +1,60 @@
+{
+  "audios": [
+    {
+      "id": "audio_olhinho",
+      "nome": "Audio Olhinho",
+      "descricao": "Áudio quando alguém coloca reação de olhinho",
+      "arquivo": "audio_1.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_1.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_boas_vindas",
+      "nome": "Boas-vindas",
+      "descricao": "Áudio de boas-vindas para novos membros",
+      "arquivo": "audio_2.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_2.mp3",
+      "tipo": "grupo",
+      "comando": "boasvindas",
+      "ativo": false
+    },
+    {
+      "id": "audio_risada",
+      "nome": "Risada",
+      "descricao": "Áudio de risada",
+      "arquivo": "audio_3.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_3.mp3",
+      "tipo": "comando",
+      "comando": "!risada",
+      "ativo": false
+    },
+    {
+      "id": "audio_ban",
+      "nome": "Audio Ban",
+      "descricao": "Áudio quando alguém é banido",
+      "arquivo": "audio_4.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_4.mp3",
+      "tipo": "grupo",
+      "comando": "ban",
+      "ativo": false
+    },
+    {
+      "id": "audio_celebracao",
+      "nome": "Celebração",
+      "descricao": "Áudio de comemoração",
+      "arquivo": "audio_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_5.mp3",
+      "tipo": "comando",
+      "comando": "!parabens",
+      "ativo": false
+    }
+  ],
+  "configuracoes": {
+    "versao": "1.0",
+    "ultima_atualizacao": "2024-11-20",
+    "repositorio": "https://github.com/LucasNascimento25/audios-damas-bt",
+    "descricao": "Configuração de áudios do bot WhatsApp"
+  }
+}
