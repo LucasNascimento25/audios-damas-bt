@@ -1,9 +1,9 @@
 {
   "audios": [
     {
-      "id": "audio_olhinho",
-      "nome": "Audio Olhinho",
-      "descricao": "Áudio quando alguém coloca reação de olhinho",
+      "id": "audio_olhinho_1",
+      "nome": "Audio Olhinho 1",
+      "descricao": "Primeiro áudio quando alguém coloca reação de olhinho",
       "arquivo": "audio_1.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_1.mp3",
       "tipo": "reacao",
@@ -11,100 +11,100 @@
       "ativo": true
     },
     {
-      "id": "audio_boas_vindas",
-      "nome": "Boas-vindas",
-      "descricao": "Áudio de boas-vindas para novos membros",
+      "id": "audio_olhinho_2",
+      "nome": "Audio Olhinho 2",
+      "descricao": "Segundo áudio para rotação",
       "arquivo": "audio_2.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_2.mp3",
-      "tipo": "grupo",
-      "comando": "boasvindas",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
     {
-      "id": "audio_risada",
-      "nome": "Risada",
-      "descricao": "Áudio de risada",
+      "id": "audio_olhinho_3",
+      "nome": "Audio Olhinho 3",
+      "descricao": "Terceiro áudio para rotação",
       "arquivo": "audio_3.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_3.mp3",
-      "tipo": "comando",
-      "comando": "!risada",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
     {
-      "id": "audio_ban",
-      "nome": "Audio Ban",
-      "descricao": "Áudio quando alguém é banido",
+      "id": "audio_olhinho_4",
+      "nome": "Audio Olhinho 4",
+      "descricao": "Quarto áudio para rotação",
       "arquivo": "audio_4.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_4.mp3",
-      "tipo": "grupo",
-      "comando": "ban",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
     {
-      "id": "audio_celebracao",
-      "nome": "Celebração",
-      "descricao": "Áudio de comemoração",
+      "id": "audio_olhinho_5",
+      "nome": "Audio Olhinho 5",
+      "descricao": "Quinto áudio para rotação",
       "arquivo": "audio_5.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_5.mp3",
-      "tipo": "comando",
-      "comando": "!parabens",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
-     {
-      "id": "audio_celebracao",
-      "nome": "Celebração",
-      "descricao": "Áudio de comemoração",
-      "arquivo": "audio_5.mp3",
+    {
+      "id": "audio_olhinho_6",
+      "nome": "Audio Olhinho 6",
+      "descricao": "Sexto áudio para rotação",
+      "arquivo": "audio_6.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_6.mp3",
-      "tipo": "comando",
-      "comando": "!parabens",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
-     {
-      "id": "audio_celebracao",
-      "nome": "Celebração",
-      "descricao": "Áudio de comemoração",
-      "arquivo": "audio_5.mp3",
+    {
+      "id": "audio_olhinho_7",
+      "nome": "Audio Olhinho 7",
+      "descricao": "Sétimo áudio para rotação",
+      "arquivo": "audio_7.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_7.mp3",
-      "tipo": "comando",
-      "comando": "!parabens",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
-     {
-      "id": "audio_celebracao",
-      "nome": "Celebração",
-      "descricao": "Áudio de comemoração",
-      "arquivo": "audio_5.mp3",
+    {
+      "id": "audio_olhinho_8",
+      "nome": "Audio Olhinho 8",
+      "descricao": "Oitavo áudio para rotação",
+      "arquivo": "audio_8.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_8.mp3",
-      "tipo": "comando",
-      "comando": "!parabens",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
-     {
-      "id": "audio_celebracao",
-      "nome": "Celebração",
-      "descricao": "Áudio de comemoração",
-      "arquivo": "audio_5.mp3",
+    {
+      "id": "audio_olhinho_9",
+      "nome": "Audio Olhinho 9",
+      "descricao": "Nono áudio para rotação",
+      "arquivo": "audio_9.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_9.mp3",
-      "tipo": "comando",
-      "comando": "!parabens",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     },
-     {
-      "id": "audio_celebracao",
-      "nome": "Celebração",
-      "descricao": "Áudio de comemoração",
-      "arquivo": "audio_5.mp3",
+    {
+      "id": "audio_olhinho_10",
+      "nome": "Audio Olhinho 10",
+      "descricao": "Décimo áudio para rotação",
+      "arquivo": "audio_10.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_10.mp3",
-      "tipo": "comando",
-      "comando": "!parabens",
+      "tipo": "reacao",
+      "comando": "olhinho",
       "ativo": true
     }
   ],
   "configuracoes": {
-    "versao": "1.0",
-    "ultima_atualizacao": "2024-11-20",
+    "versao": "2.0",
+    "ultima_atualizacao": "2024-11-22",
     "repositorio": "https://github.com/LucasNascimento25/audios-damas-bt",
-    "descricao": "Configuração de áudios do bot WhatsApp"
+    "descricao": "Configuração de áudios do bot WhatsApp - Sistema de rotação implementado"
   }
 }
