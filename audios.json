@@ -49,6 +49,56 @@
       "tipo": "comando",
       "comando": "!parabens",
       "ativo": false
+    },
+     {
+      "id": "audio_celebracao",
+      "nome": "Celebração",
+      "descricao": "Áudio de comemoração",
+      "arquivo": "audio_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_6.mp3",
+      "tipo": "comando",
+      "comando": "!parabens",
+      "ativo": false
+    },
+     {
+      "id": "audio_celebracao",
+      "nome": "Celebração",
+      "descricao": "Áudio de comemoração",
+      "arquivo": "audio_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_7.mp3",
+      "tipo": "comando",
+      "comando": "!parabens",
+      "ativo": false
+    },
+     {
+      "id": "audio_celebracao",
+      "nome": "Celebração",
+      "descricao": "Áudio de comemoração",
+      "arquivo": "audio_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_8.mp3",
+      "tipo": "comando",
+      "comando": "!parabens",
+      "ativo": false
+    },
+     {
+      "id": "audio_celebracao",
+      "nome": "Celebração",
+      "descricao": "Áudio de comemoração",
+      "arquivo": "audio_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_9.mp3",
+      "tipo": "comando",
+      "comando": "!parabens",
+      "ativo": false
+    },
+     {
+      "id": "audio_celebracao",
+      "nome": "Celebração",
+      "descricao": "Áudio de comemoração",
+      "arquivo": "audio_5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_10.mp3",
+      "tipo": "comando",
+      "comando": "!parabens",
+      "ativo": false
     }
   ],
   "configuracoes": {
