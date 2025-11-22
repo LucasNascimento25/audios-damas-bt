@@ -100,166 +100,167 @@
       "comando": "olhinho",
       "ativo": true
     },
-  {
-  "id": "audio_olhinho_11",
-  "nome": "Audio Olhinho 11",
-  "descricao": "Décimo primeiro áudio para rotação",
-  "arquivo": "audio_11.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_11.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_12",
-  "nome": "Audio Olhinho 12",
-  "descricao": "Décimo segundo áudio para rotação",
-  "arquivo": "audio_12.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_12.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_13",
-  "nome": "Audio Olhinho 13",
-  "descricao": "Décimo terceiro áudio para rotação",
-  "arquivo": "audio_13.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_13.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_14",
-  "nome": "Audio Olhinho 14",
-  "descricao": "Décimo quarto áudio para rotação",
-  "arquivo": "audio_14.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_14.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_15",
-  "nome": "Audio Olhinho 15",
-  "descricao": "Décimo quinto áudio para rotação",
-  "arquivo": "audio_15.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_15.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_16",
-  "nome": "Audio Olhinho 16",
-  "descricao": "Décimo sexto áudio para rotação",
-  "arquivo": "audio_16.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_16.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_17",
-  "nome": "Audio Olhinho 17",
-  "descricao": "Décimo sétimo áudio para rotação",
-  "arquivo": "audio_17.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_17.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_18",
-  "nome": "Audio Olhinho 18",
-  "descricao": "Décimo oitavo áudio para rotação",
-  "arquivo": "audio_18.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_18.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_19",
-  "nome": "Audio Olhinho 19",
-  "descricao": "Décimo nono áudio para rotação",
-  "arquivo": "audio_19.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_19.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_20",
-  "nome": "Audio Olhinho 20",
-  "descricao": "Vigésimo áudio para rotação",
-  "arquivo": "audio_20.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_20.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_21",
-  "nome": "Audio Olhinho 21",
-  "descricao": "Vigésimo primeiro áudio para rotação",
-  "arquivo": "audio_21.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_21.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_22",
-  "nome": "Audio Olhinho 22",
-  "descricao": "Vigésimo segundo áudio para rotação",
-  "arquivo": "audio_22.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_22.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_23",
-  "nome": "Audio Olhinho 23",
-  "descricao": "Vigésimo terceiro áudio para rotação",
-  "arquivo": "audio_23.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_23.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_24",
-  "nome": "Audio Olhinho 24",
-  "descricao": "Vigésimo quarto áudio para rotação",
-  "arquivo": "audio_24.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_24.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_25",
-  "nome": "Audio Olhinho 25",
-  "descricao": "Vigésimo quinto áudio para rotação",
-  "arquivo": "audio_25.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_25.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
-{
-  "id": "audio_olhinho_26",
-  "nome": "Audio Olhinho 26",
-  "descricao": "Vigésimo sexto áudio para rotação",
-  "arquivo": "audio_26.mp3",
-  "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_26.mp3",
-  "tipo": "reacao",
-  "comando": "olhinho",
-  "ativo": true
-},
+    {
+      "id": "audio_olhinho_11",
+      "nome": "Audio Olhinho 11",
+      "descricao": "Décimo primeiro áudio para rotação",
+      "arquivo": "audio_11.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_11.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_12",
+      "nome": "Audio Olhinho 12",
+      "descricao": "Décimo segundo áudio para rotação",
+      "arquivo": "audio_12.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_12.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_13",
+      "nome": "Audio Olhinho 13",
+      "descricao": "Décimo terceiro áudio para rotação",
+      "arquivo": "audio_13.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_13.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_14",
+      "nome": "Audio Olhinho 14",
+      "descricao": "Décimo quarto áudio para rotação",
+      "arquivo": "audio_14.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_14.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_15",
+      "nome": "Audio Olhinho 15",
+      "descricao": "Décimo quinto áudio para rotação",
+      "arquivo": "audio_15.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_15.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_16",
+      "nome": "Audio Olhinho 16",
+      "descricao": "Décimo sexto áudio para rotação",
+      "arquivo": "audio_16.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_16.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_17",
+      "nome": "Audio Olhinho 17",
+      "descricao": "Décimo sétimo áudio para rotação",
+      "arquivo": "audio_17.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_17.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_18",
+      "nome": "Audio Olhinho 18",
+      "descricao": "Décimo oitavo áudio para rotação",
+      "arquivo": "audio_18.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_18.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_19",
+      "nome": "Audio Olhinho 19",
+      "descricao": "Décimo nono áudio para rotação",
+      "arquivo": "audio_19.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_19.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_20",
+      "nome": "Audio Olhinho 20",
+      "descricao": "Vigésimo áudio para rotação",
+      "arquivo": "audio_20.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_20.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_21",
+      "nome": "Audio Olhinho 21",
+      "descricao": "Vigésimo primeiro áudio para rotação",
+      "arquivo": "audio_21.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_21.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_22",
+      "nome": "Audio Olhinho 22",
+      "descricao": "Vigésimo segundo áudio para rotação",
+      "arquivo": "audio_22.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_22.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_23",
+      "nome": "Audio Olhinho 23",
+      "descricao": "Vigésimo terceiro áudio para rotação",
+      "arquivo": "audio_23.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_23.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_24",
+      "nome": "Audio Olhinho 24",
+      "descricao": "Vigésimo quarto áudio para rotação",
+      "arquivo": "audio_24.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_24.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_25",
+      "nome": "Audio Olhinho 25",
+      "descricao": "Vigésimo quinto áudio para rotação",
+      "arquivo": "audio_25.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_25.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+    {
+      "id": "audio_olhinho_26",
+      "nome": "Audio Olhinho 26",
+      "descricao": "Vigésimo sexto áudio para rotação",
+      "arquivo": "audio_26.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_26.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    }
+  ],
   "configuracoes": {
     "versao": "2.0",
     "ultima_atualizacao": "2024-11-22",
