@@ -18,7 +18,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_2.mp3",
       "tipo": "grupo",
       "comando": "boasvindas",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "audio_risada",
@@ -28,7 +28,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_3.mp3",
       "tipo": "comando",
       "comando": "!risada",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "audio_ban",
@@ -38,7 +38,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_4.mp3",
       "tipo": "grupo",
       "comando": "ban",
-      "ativo": false
+      "ativo": true
     },
     {
       "id": "audio_celebracao",
@@ -48,7 +48,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_5.mp3",
       "tipo": "comando",
       "comando": "!parabens",
-      "ativo": false
+      "ativo": true
     },
      {
       "id": "audio_celebracao",
@@ -58,7 +58,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_6.mp3",
       "tipo": "comando",
       "comando": "!parabens",
-      "ativo": false
+      "ativo": true
     },
      {
       "id": "audio_celebracao",
@@ -68,7 +68,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_7.mp3",
       "tipo": "comando",
       "comando": "!parabens",
-      "ativo": false
+      "ativo": true
     },
      {
       "id": "audio_celebracao",
@@ -78,7 +78,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_8.mp3",
       "tipo": "comando",
       "comando": "!parabens",
-      "ativo": false
+      "ativo": true
     },
      {
       "id": "audio_celebracao",
@@ -88,7 +88,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_9.mp3",
       "tipo": "comando",
       "comando": "!parabens",
-      "ativo": false
+      "ativo": true
     },
      {
       "id": "audio_celebracao",
@@ -98,7 +98,7 @@
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_10.mp3",
       "tipo": "comando",
       "comando": "!parabens",
-      "ativo": false
+      "ativo": true
     }
   ],
   "configuracoes": {
