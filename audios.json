@@ -259,6 +259,25 @@
       "tipo": "reacao",
       "comando": "olhinho",
       "ativo": true
+    }, {
+      "id": "audio_olhinho_27",
+      "nome": "Audio Olhinho 27",
+      "descricao": "Vigésimo sexto áudio para rotação",
+      "arquivo": "audio_27.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_27.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
+    },
+     {
+      "id": "audio_olhinho_28",
+      "nome": "Audio Olhinho 28",
+      "descricao": "Vigésimo sexto áudio para rotação",
+      "arquivo": "audio_28.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_28.mp3",
+      "tipo": "reacao",
+      "comando": "olhinho",
+      "ativo": true
     }
   ],
   "configuracoes": {
