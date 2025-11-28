@@ -278,7 +278,107 @@
       "tipo": "reacao",
       "comando": "olhinho",
       "ativo": true
-    }
+    },
+    {
+    "id": "audio_olhinho_29",
+    "nome": "Audio Olhinho 29",
+    "descricao": "Vigésimo nono áudio para rotação",
+    "arquivo": "audio_29.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_29.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_30",
+    "nome": "Audio Olhinho 30",
+    "descricao": "Trigésimo áudio para rotação",
+    "arquivo": "audio_30.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_30.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_31",
+    "nome": "Audio Olhinho 31",
+    "descricao": "Trigésimo primeiro áudio para rotação",
+    "arquivo": "audio_31.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_31.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_32",
+    "nome": "Audio Olhinho 32",
+    "descricao": "Trigésimo segundo áudio para rotação",
+    "arquivo": "audio_32.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_32.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_33",
+    "nome": "Audio Olhinho 33",
+    "descricao": "Trigésimo terceiro áudio para rotação",
+    "arquivo": "audio_33.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_33.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_34",
+    "nome": "Audio Olhinho 34",
+    "descricao": "Trigésimo quarto áudio para rotação",
+    "arquivo": "audio_34.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_34.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_35",
+    "nome": "Audio Olhinho 35",
+    "descricao": "Trigésimo quinto áudio para rotação",
+    "arquivo": "audio_35.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_35.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_36",
+    "nome": "Audio Olhinho 36",
+    "descricao": "Trigésimo sexto áudio para rotação",
+    "arquivo": "audio_36.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_36.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_37",
+    "nome": "Audio Olhinho 37",
+    "descricao": "Trigésimo sétimo áudio para rotação",
+    "arquivo": "audio_37.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_37.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  },
+  {
+    "id": "audio_olhinho_38",
+    "nome": "Audio Olhinho 38",
+    "descricao": "Trigésimo oitavo áudio para rotação",
+    "arquivo": "audio_38.mp3",
+    "url": "https://raw.githubusercontent.com/LucasNascimento25/audios-damas-bt/main/audios/audio_38.mp3",
+    "tipo": "reacao",
+    "comando": "olhinho",
+    "ativo": true
+  }
   ],
   "configuracoes": {
     "versao": "2.0",
